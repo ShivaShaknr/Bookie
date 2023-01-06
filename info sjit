@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<head>
+    <title>shiva</title>
+</head>
+<body>
+
+    <h1>SHIVA SHANAKR M</h1>
+    <h1>ST.JOSEPH'S INSTITUTE OF TECHNOLOGY</h1>
+    <h2>OMR</h2>
+    <h3>SHOLLINGANALLUR</h3>
+    <h4>KANCHIPURAM</h4>
+    <h5>CHENNAI</h5>
+    <h6>044 32 5679</h6>
+    
+<div>
+
+    <section id="sec1"><h3>INFO ABOUT SJIT</h3></section>
+
+    <p>St.Joseph's institute of technology is located at <span style="color:red">chennai</span></p>
+
+
+    <pre>St.Joseph's college of engineering is loacated at
+        chennai
+    </pre>
+
+</div>
+    
+   <audio>
+    <source src="song.mp3.mp3">
+   </audio>
+
+   <video>
+    <source src="https://youtu.be/_rPrc32MYQ8">
+   </video>
+
+<form>
+  NAME<input type="text" value="enter your name"><br>
+  <br>
+  EMAIL<input type="email" value="enter your mail id"><br>
+  <br>
+  PASSWORD<input type="password" value="enter your password"><br>
+  <br>
+  PHONE NUMBER<input type="number" value="enter mobile number"><br>
+  <br>
+  <input type="submit">
+</form>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBHT4bUMMrhuf8Q4LoXBMJAoz1ZZ3ErGf4NA&usqp=CAU">
+
+
+<table border="2">
+    <thead>
+
+    </thead>
+    <tbody>
+        <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Password</th>
+        <th>Phone number</th>
+        </tr>
+
+        <tr>
+            <td>SHIVA</td>
+            <td>shivanat05@gmail.com</td>
+            <td>shivajan15</td>
+            <td>7604863285</td>
+        </tr>
+
+        <tr>
+            <td>SHANKAR</td>
+            <td>shivashankar05@gmail.com</td>
+            <td>shiva13</td>
+            <td>7604334648</td>
+        </tr>
+
+    </tbody>
+  
+
+
+</table>
+
+
+<ol>
+    <li>SHIVA</li>
+    <li>shivanat05@gmail.com</li>
+    <li>shivajan15</li>
+    <li>7604863285</li>
+</ol>
+
+<ul>
+    <li>SHANKAR</li>
+    <li>shivashankar@gmail.com</li>
+    <li>shiva13</li>
+    <li>7603363938</li>
+</ul>
+
+</body>
+</html>
