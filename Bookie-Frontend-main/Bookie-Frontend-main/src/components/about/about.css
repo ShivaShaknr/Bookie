@@ -1,0 +1,64 @@
+/* about.css */
+
+.about {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about h6 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .about p {
+    margin-bottom: 20px;
+  }
+  
+  .main_about {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+  }
+  
+  .about1 {
+    text-align: center;
+  }
+  
+  .about1 p {
+    font-weight: bold;
+  }
+  
+  .about1 hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 10px auto;
+    width: 50%;
+  }
+  
+  /* Responsive styles */
+  
+  @media screen and (max-width: 768px) {
+    .main_about {
+      flex-direction: column;
+    }
+  
+    .about1 {
+      margin-bottom: 20px;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .about h6 {
+      font-size: 16px;
+    }
+  
+    .about p {
+      font-size: 14px;
+    }
+  
+    .main_about {
+      margin-top: 20px;
+    }
+  }
+  
